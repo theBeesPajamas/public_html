@@ -1,0 +1,6 @@
+.bgimage {
+    background-image: url('../imgs/Indo_isle.jpg');
+    background-position: center center;
+    background-size: coover;
+    height: 200px;
+}
